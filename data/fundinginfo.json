@@ -1,0 +1,92 @@
+[
+    {
+        "index": 1,
+        "owner": "",
+        "fundingName": "해외 응급 구조",
+        "fundingInfo": "해외에서 위급상황시 큰 소리를 울려서 자신이 위험하다는 위험 경보를 울리면서 GPS 정보를 해당 국가 경찰에 보내는 것",
+        "numInvestors": 0,
+        "deadline": "2020-01-27",
+        "status": "true",
+        "helper": [
+
+        ],
+        "goalAmount": 1000000,
+        "totalAmount": 500000,
+        "image": "help.PNG"
+    },
+    {
+        "index": 2,
+        "owner": "",
+        "fundingName": "월광 주사위",
+        "fundingInfo": "보편적인 주사위와는 다른 편견을 깨뜨린 고급 물품의 혁명",
+        "numInvestors": 0,
+        "deadline": "2020-02-01",
+        "status": "true",
+        "helper": [
+
+        ],
+        "goalAmount": 1000000,
+        "totalAmount": 500000,
+        "image": "case.PNG"
+    },
+    {
+        "index": 3,
+        "owner": "",
+        "fundingName": "고양이 장난감",
+        "fundingInfo": "고양이가 정말 좋아하는 엄청난 장난감",
+        "numInvestors": 0,
+        "deadline": "2020-02-015",
+        "status": "true",
+        "helper": [
+
+        ],
+        "goalAmount": 1000000,
+        "totalAmount": 500000,
+        "image": "cat.PNG"
+    },
+    {
+        "index": 4,
+        "owner": "",
+        "fundingName": "수제우산",
+        "fundingInfo": "오래오래 쓰고 품질이 좋은 우산",
+        "numInvestors": 0,
+        "deadline": "2020-02-15",
+        "status": "true",
+        "helper": [
+
+        ],
+        "goalAmount": 1000000,
+        "totalAmount": 500000,
+        "image": "umb.jpg"
+    },
+    {
+        "index": 5,
+        "owner": "",
+        "fundingName": "파인풋 머그컵",
+        "fundingInfo": "환경파괴를 막고 자연친화적 삶을 살자는 취지에서 만들게 되었습니다",
+        "numIvestors": 0,
+        "deadline": "2020-03-01",
+        "status": "true", 
+        "helper": [
+
+        ],
+        "goalAmount": 500000,
+        "totalAmount": 200000,
+        "image": "cup.jpg"
+    },
+    {
+        "index": 6,
+        "owner": "",
+        "fundingName": "오버액션 노트북파우치",
+        "fundingInfo": "아기자기하고 소중한 노트북을 지키기 위한 물품",
+        "numIvestors": 0,
+        "deadline": "2020-03-01",
+        "status": "true",
+        "helper": [
+
+        ],
+        "goalAmount": 500000,
+        "totalAmount": 200000,
+        "image": "pocket.jpg"
+    }
+]
